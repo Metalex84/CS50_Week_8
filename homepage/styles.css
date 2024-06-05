@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    font-family: monospace;
+    text-decoration: underline;
+}
+
+h2 {
+    color: darkred;
+    font-family: monospace;
+}
+
+p {
+    color: purple;
+    font-family: monospace;
+}
+
+td {
+    font-weight: bold;
+}
+
+.storytext {
+    color: orangered;
+    font-family: monospace;
+    font-style: italic;
+}

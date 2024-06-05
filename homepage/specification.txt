@@ -1,0 +1,50 @@
+HTML TAGS:
+<html>
+<body>
+<head>
+<title>
+<meta>
+<link>
+<script>
+<h1>
+<h2>
+<p>
+<br>
+<div>
+<a>
+<img>
+<button>
+<nav>
+<span>
+<ul>
+<li>
+<table>
+<thead>
+<th>
+<tbody>
+<tr>
+<td>
+
+CSS TAGS:
+body
+h1
+h2
+p
+td
+.storytext
+
+CSS ATTRIBUTES:
+background-color
+color
+font-family
+text-decoration
+font-weight
+font-style
+
+BOOTSTRAP:
+I chose Bootstrap CSS to apply all these cool stylistic features to my page: I prefer functionallity over "good-looking", so these kind of libraries are so useful to me.
+
+JAVASCRIPT:
+There are 2 different scripts:
+1. An user greeting that promts an alert to request the name of the user
+2. A blinking text
